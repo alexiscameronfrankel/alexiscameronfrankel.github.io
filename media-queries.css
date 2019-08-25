@@ -60,7 +60,7 @@
 	 }
 
 }
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 280px) {
 	h1 {
 		font-size: 0.03em;
 	}
@@ -69,5 +69,4 @@
 	padding: 15px;
 	font-size:0.9em;
 	 }
-
 }
