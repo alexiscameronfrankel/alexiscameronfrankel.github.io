@@ -50,9 +50,9 @@
 	 }
 	}
 @media screen and (max-width: 480px) {
-	#title-page h1 {
+	/* i think this is key to getting mobile font size for title page correct#title-page h1 {
 		font-size:20px;
-	}
+	} */
 	h1 {
 		font-size: 1em;
 	}
