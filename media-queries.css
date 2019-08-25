@@ -60,3 +60,14 @@
 	 }
 
 }
+@media screen and (max-width: 380px) {
+	h1 {
+		font-size: 0.03em;
+	}
+	ul#menu li a.button {
+	/* this padding defines the size of the buttons */
+	padding: 15px;
+	font-size:0.9em;
+	 }
+
+}
